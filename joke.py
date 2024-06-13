@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from fastai.vision.all import *
+from fastai.vision import *
 import pathlib
 import sys
 
